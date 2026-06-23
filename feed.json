@@ -2,6 +2,7 @@
   "title": "Mi Colección PlayStation 1",
   "longTitle": "La Bóveda Retro de PSX para Xbox",
   "description": "Feed optimizado con formatos ZIP y CHD desde Internet Archive.",
+  "background": "https://images.alphacoders.com/519/519630.jpg",
   "thumbnail": "https://cdn.icon-icons.com/icons2/2368/PNG/512/playstation_logo_icon_143717.png",
   "categories": [
     {
@@ -9,7 +10,7 @@
       "shortTitle": "PSX ZIP",
       "description": "Selección de las partes 1 a 5",
       "thumbnail": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Crash%20Bandicoot%20-%20Warped%20%28USA%29.png",
-      "items": [
+      "applications": [
         {
           "title": "Crash Bandicoot 3: Warped (USA)",
           "type": "psx",
@@ -57,7 +58,7 @@
       "shortTitle": "CHD USA",
       "description": "Juegos americanos optimizados en CHD",
       "thumbnail": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Castlevania%20-%20Symphony%20of%20the%20Night%20%28USA%29.png",
-      "items": [
+      "applications": [
         {
           "title": "Castlevania: Symphony of the Night (USA)",
           "type": "psx",
@@ -87,9 +88,9 @@
     {
       "title": "PSX Europa (Formato CHD Rápido)",
       "shortTitle": "CHD EUR",
-      "description": "Versiones europeas (muchas con opción de idioma Español)",
+      "description": "Versiones europeas con opción de idioma Español",
       "thumbnail": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Crash%20Bash%20%28Europe%29.png",
-      "items": [
+      "applications": [
         {
           "title": "Crash Bash (Europe)",
           "type": "psx",
@@ -113,7 +114,7 @@
       "shortTitle": "CHD Misc",
       "description": "Joyas exclusivas de Japón y rarezas",
       "thumbnail": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Pepsiman%20%28Japan%29.png",
-      "items": [
+      "applications": [
         {
           "title": "Pepsiman (Japan)",
           "type": "psx",
